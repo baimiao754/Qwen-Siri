@@ -1,3 +1,4 @@
+# 👉 [简体中文文档](README-zh_CN.md)
 With Quick Actions, you can send the screenshot image to Tencent Yiting's API or the text extracted from the screenshot to Tencent Yiting's API or ChatGPT's API, enabling AI to understand and read the content on the screen or in the picture. 
 
 Steps for Operation:
