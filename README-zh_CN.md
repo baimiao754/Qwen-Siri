@@ -1,6 +1,7 @@
 通过快捷指令，将截屏的图片发送给通义的api，或将截屏后提取的文本发送给通义的api或chatglm的api，实现ai对屏幕内容或图片内容的理解和阅读。
 
-快捷指令链接：https://www.icloud.com/shortcuts/d981fedba4fc42a4a67bec0d40d68566
+快捷指令链接：
+https://www.icloud.com/shortcuts/c9a85b293d714371bfba3874cb0914a4
 
 操作步骤：
 1.https://bailian.console.aliyun.com/?apiKey=1#/api-key（通义千问apikey获取地址）
