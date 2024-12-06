@@ -1,7 +1,7 @@
 # 👉 [简体中文文档](README-zh_CN.md)
 With Quick Actions, you can send the screenshot image to Tencent Yiting's API or the text extracted from the screenshot to Tencent Yiting's API or ChatGPT's API, enabling AI to understand and read the content on the screen or in the picture. 
 
-iCloud（Shortcut command）：https://www.icloud.com/shortcuts/d981fedba4fc42a4a67bec0d40d68566
+iCloud（Shortcut command）：https://www.icloud.com/shortcuts/c9a85b293d714371bfba3874cb0914a4
 
 Steps for Operation:
 1. https://bailian.console.aliyun.com/?apiKey=1#/api-key (Aliyun Bailian API key retrieval address using Tongyi Qianwen) https://bigmodel.cn/usercenter/proj-mgmt/apikeys
